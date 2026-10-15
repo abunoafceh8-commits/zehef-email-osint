@@ -1,6 +1,22 @@
 {
-  "slug": "zehef-email-osint",
-  "url": "https://zehef-osint-tool-iylf.arcada.app/",
-  "title": "Zehef Email OSINT",
-  "desc": "أداة فحص/استخبارات البريد الإلكتروني."
+  "name": "zehef-email-osint",
+  "title": "Zehef — أداة فحص واستخبارات البريد الإلكتروني",
+  "category": "OSINT",
+  "description": "أداة استخبارات البريد الإلكتروني وفحص الإيميلات (OSINT).",
+  "liveUrl": "https://zehef-osint-tool-iylf.arcada.app",
+  "aliases": [],
+  "sourceLinks": [
+    "https://www.designarena.ai/chat/3f1331de-fc13-4c5c-bfc7-b6ce2534ba0e"
+  ],
+  "originalTitle": "Zehef - أداة استخبارات البريد الإلكتروني",
+  "originalDescription": "",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-CeZXW4IW.js",
+    "assets/index-DS1TqWR8.css",
+    "abu-nawaf-logo.png"
+  ]
 }

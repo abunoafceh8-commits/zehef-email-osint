@@ -1,12 +1,46 @@
-# Zehef Email OSINT
+# Zehef — أداة فحص واستخبارات البريد الإلكتروني
 
-أداة فحص/استخبارات البريد الإلكتروني.
+> **التصنيف:** OSINT · **المستودع:** `zehef-email-osint` · **الحالة:** جاهز للاستضافة الثابتة (Static Hosting)
 
-## Original URL
+أداة استخبارات البريد الإلكتروني وفحص الإيميلات (OSINT).
 
-https://zehef-osint-tool-iylf.arcada.app/
+## روابط الموقع الحي والأصول
+- https://zehef-osint-tool-iylf.arcada.app
 
-## Notes
+## روابط المصدر/التصميم المرجعية
+- https://www.designarena.ai/chat/3f1331de-fc13-4c5c-bfc7-b6ce2534ba0e
 
-- Downloaded snapshot of the deployed application (HTML + bundled assets).
-- Generated/collected on 2026-10-15.
+## كيفية العمل / ملخص المشروع
+تم تنزيل لقطة كاملة من الموقع الحي (https://zehef-osint-tool-iylf.arcada.app) تشمل `index.html` وكل الأصول المحلية (JS/CSS/صور) بتاريخ 2026-10-15، وأصبح المشروع جاهزًا للاستضافة الثابتة مباشرة.
+
+- العنوان الأصلي في الموقع: `Zehef - أداة استخبارات البريد الإلكتروني`
+- الوصف الأصلي (Meta): أداة استخبارات البريد الإلكتروني وفحص الإيميلات (OSINT).
+- هذا مشروع ويب ثابت: افتح `index.html` مباشرة أو استضِف المجلد كاملًا على GitHub أو Vercel أو Netlify أو أي استضافة ثابتة بدون أي خطوة بناء (No build step).
+- كل الأصول المحلية التي كان الموقع يعتمد عليها موجودة داخل المستودع في نفس مساراتها الأصلية (`assets/` وغيرها) حتى يعمل الموقع بعد الاستضافة كما كان حيًا.
+
+## الملفات المضمّنة
+- `favicon.svg`
+- `assets/index-CeZXW4IW.js`
+- `assets/index-DS1TqWR8.css`
+- `abu-nawaf-logo.png`
+- `README.md` — هذا الشرح
+- `project.json` — بيانات المشروع الوصفية بصيغة JSON
+- `SOURCE.md` — مصدر الأرشفة وتاريخها وملاحظات الأمان
+- `vercel.json` — إعداد استضافة جاهز لـ Vercel
+- `LICENSE` — رخصة MIT
+
+## التشغيل محليًا
+```bash
+python3 -m http.server 8000
+# ثم افتح http://localhost:8000
+```
+
+## الاستضافة على Vercel
+```bash
+npm i -g vercel
+vercel --prod
+```
+أو اربط هذا المستودع من لوحة Vercel وسيُنشر كموقع ثابت مباشرة.
+
+## تحذير الاستخدام المسؤول
+استخدم الأدوات في أغراض مشروعة فقط وبما يتوافق مع قوانين بلدك وشروط استخدام المنصات المعنية. لا تُستخدم أدوات OSINT/الأرشيف للتنمّر أو المضايقة أو انتهاك الخصوصية.
