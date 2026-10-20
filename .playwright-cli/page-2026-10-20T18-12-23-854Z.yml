@@ -1,0 +1,150 @@
+- generic [ref=e1]:
+  - link "تجاوز إلى المحتوى" [ref=e2] [cursor=pointer]:
+    - /url: "#main, main, #root"
+  - banner "شريط هوية أبو نواف" [ref=e3]:
+    - link "شعار أبو نواف أبو نواف · OSINT · بريد إلكتروني · هكر أخلاقي" [ref=e4] [cursor=pointer]:
+      - /url: https://abu-nawaf-hub.vercel.app
+      - img "شعار أبو نواف" [ref=e5]
+      - generic [ref=e6]: أبو نواف
+      - generic [ref=e7]: · OSINT · بريد إلكتروني · هكر أخلاقي
+    - generic [ref=e8]: Zehef
+    - button "⌘ أوامر Ctrl K" [ref=e10] [cursor=pointer]:
+      - generic [ref=e11]: ⌘
+      - text: أوامر
+      - generic [ref=e12]: Ctrl K
+    - link "مركز الأدوات ↗" [ref=e13] [cursor=pointer]:
+      - /url: https://abu-nawaf-hub.vercel.app
+    - button "لوحة أبو نواف" [ref=e14] [cursor=pointer]: ✦
+  - generic [ref=e16]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - img "Abu Nawaf Team Logo" [ref=e20]
+        - generic [ref=e21]:
+          - heading "فريق أبو نواف" [level=2] [ref=e22]
+          - paragraph [ref=e30]: تقنية وأمن سيبراني | Ethical Hacking & Cybersecurity Services
+          - generic [ref=e31]:
+            - link "GitHub" [ref=e32] [cursor=pointer]:
+              - /url: https://github.com/elias0878
+            - link "Instagram" [ref=e36] [cursor=pointer]:
+              - /url: https://www.instagram.com/ksa_hack01/
+            - link "X (Twitter)" [ref=e42] [cursor=pointer]:
+              - /url: https://x.com/ANT_ceh
+            - link "Telegram" [ref=e46] [cursor=pointer]:
+              - /url: https://t.me/Elias
+            - link "صفحة الحسابات الرسمية" [ref=e50] [cursor=pointer]:
+              - /url: https://elias0878.github.io/accounts/
+      - button "✕" [ref=e56] [cursor=pointer]
+    - banner [ref=e57]:
+      - generic [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e68]:
+            - heading "Zehef" [level=1] [ref=e69]
+            - generic [ref=e70]: أداة استخبارات البريد الإلكتروني المتقدمة
+          - generic [ref=e71]: v2.0 Web Pro
+        - paragraph [ref=e72]: أداة OSINT شاملة للكشف العميق عن معلومات البريد الإلكتروني — فحص تسريبات HudsonRock، كشف حسابات 17+ منصة، تحليل أمان متقدم، وتوليد إيميلات ذكي
+        - generic [ref=e73]:
+          - generic [ref=e74]: فحص التسريبات
+          - generic [ref=e77]: كشف 17+ حساب
+          - generic [ref=e81]: تحليل عميق
+          - generic [ref=e91]: توليد ذكي
+          - generic [ref=e95]: تقرير مفصل
+        - generic [ref=e100]:
+          - textbox "أدخل عنوان البريد الإلكتروني للفحص الشامل..." [active] [ref=e104]
+          - button "تشغيل الفحص الشامل" [disabled] [ref=e105]
+    - main [ref=e109]:
+      - generic [ref=e110]:
+        - heading "جاهز للفحص الشامل 🎯" [level=3] [ref=e119]
+        - paragraph [ref=e120]: أدخل أي بريد إلكتروني واضغط "تشغيل الفحص الشامل" لبدء الاستخبارات المتقدمة
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - strong [ref=e125]: HudsonRock
+            - generic [ref=e126]: فحص التسريبات
+          - generic [ref=e127]:
+            - strong [ref=e133]: 17+ منصة
+            - generic [ref=e134]: كشف الحسابات
+          - generic [ref=e135]:
+            - strong [ref=e145]: تحليل عميق
+            - generic [ref=e146]: تقييم المخاطر
+          - generic [ref=e147]:
+            - strong [ref=e151]: تقرير كامل
+            - generic [ref=e152]: تحميل TXT/JSON
+    - contentinfo [ref=e153]:
+      - generic [ref=e154]:
+        - generic [ref=e155]:
+          - strong [ref=e163]: Zehef v2.0 Pro
+          - generic [ref=e164]: "|"
+          - generic [ref=e165]: واجهة ويب OSINT متقدمة
+        - generic [ref=e166]:
+          - text: بناءً على
+          - link "N0rz3/Zehef" [ref=e167] [cursor=pointer]:
+            - /url: https://github.com/N0rz3/Zehef
+          - text: • تطوير وتطوير
+          - link "فريق أبو نواف 🇸🇦" [ref=e168] [cursor=pointer]:
+            - /url: https://elias0878.github.io/accounts/
+        - paragraph [ref=e169]: للأغراض التعليمية والأبحاث الأمنية فقط — غير مسؤول عن أي استخدام خاطئ
+  - link "تعزيز بواسطة أبو نواف ✦" [ref=e172] [cursor=pointer]:
+    - /url: https://abu-nawaf-hub.vercel.app
+  - button "لوحة أبو نواف" [ref=e173] [cursor=pointer]
+  - complementary [aria-hidden]:
+    - heading [level=4]: لوحة أبو نواف
+    - paragraph: Zehef — الإصدار المعزّز v2.0.0
+    - list:
+      - listitem:
+        - button:
+          - generic: لوحة الأوامر
+          - generic: Ctrl K
+      - listitem:
+        - button:
+          - generic: نسخ رابط الصفحة
+          - generic: C
+      - listitem:
+        - button:
+          - generic: تنزيل نسخة من الصفحة
+          - generic: S
+      - listitem:
+        - button:
+          - generic: طباعة / حفظ PDF
+          - generic: P
+      - listitem:
+        - button:
+          - generic: أعلى الصفحة
+          - generic: T
+      - listitem:
+        - button:
+          - generic: إخفاء توقيع الهوية
+          - generic: W
+    - list:
+      - listitem:
+        - button:
+          - generic: مركز أدوات أبو نواف ↗
+      - listitem:
+        - button:
+          - generic: مستودعات GitHub ↗
+    - paragraph: "استخدام مسؤول: هذه الأداة تعرض بيانات متاحة علنًا فقط. لا تستخدمها للمضايقة أو انتهاك الخصوصية."
+  - contentinfo [ref=e174]:
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - img "شعار أبو نواف" [ref=e177]
+        - generic [ref=e178]:
+          - text: أبو نواف
+          - generic [ref=e179]: هكر أخلاقي · حماية · استخبارات مفتوحة
+      - paragraph [ref=e180]: صُمّمت وبُنيت هذه الأداة وهُيّئت للعمل بمعايير أمان حديثة على يد فريق أبو نواف. الاستخدام مسموح للأغراض المشروعة والبحث الأمني فقط، وبما يتوافق مع قوانين بلدك وشروط المنصات.
+      - navigation "روابط أبو نواف" [ref=e181]:
+        - link "مركز الأدوات" [ref=e182] [cursor=pointer]:
+          - /url: https://abu-nawaf-hub.vercel.app
+        - link "GitHub" [ref=e183] [cursor=pointer]:
+          - /url: https://github.com/abunoafceh8-commits
+        - link "تواصل معنا" [ref=e184] [cursor=pointer]:
+          - /url: mailto:abunoaf.ceh8@gmail.com
+        - link "أعلى الصفحة ↑" [ref=e185] [cursor=pointer]:
+          - /url: "#an-top"
+      - generic [ref=e186]: "© 2026 أبو نواف — جميع الحقوق محفوظة · رخصة MITخصوصية كاملة: لا تتبّع، لا إعلانات، لا Cookies تحليلية — كل المعالجة داخل متصفحك."
+  - dialog "لوحة الأوامر":
+    - generic:
+      - textbox "بحث الأوامر":
+        - /placeholder: ابحث عن أمر أو قسم…
+      - listbox
+      - generic:
+        - generic: ↑↓ تنقّل
+        - generic: Enter تنفيذ
+        - generic: Esc إغلاق
